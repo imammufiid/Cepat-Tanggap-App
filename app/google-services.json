@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358518024604",
+    "firebase_url": "https://cepattanggapapp.firebaseio.com",
+    "project_id": "cepattanggapapp",
+    "storage_bucket": "cepattanggapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358518024604:android:2def14aa5410905742c059",
+        "android_client_info": {
+          "package_name": "com.example.cepattanggapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358518024604-20j4pqogte0v9t7qjoa28k8clpdekrnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cepattanggapapp",
+            "certificate_hash": "40e5756d826ee43f6c165479ffa7e4904e255834"
+          }
+        },
+        {
+          "client_id": "358518024604-gh9roiovcftrl22kqmurilspv6bm5d0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLo_TklZve_-x9Gq0h31mxUQ3-R-qck8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358518024604-gh9roiovcftrl22kqmurilspv6bm5d0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

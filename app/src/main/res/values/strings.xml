@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CepatTanggapApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_app">CEPAT TANGGAP\nAPP</string>
+    <string name="home">Beranda</string>
+    <string name="message">Pesan</string>
+    <string name="faq">FAQ</string>
+    <string name="profile">Profil</string>
+    <string name="semua_sudah_dibaca">Tandai Semua Sudah Dibaca</string>
+</resources>
